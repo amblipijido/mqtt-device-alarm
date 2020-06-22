@@ -1,9 +1,9 @@
 # Nodemcu MQTT Simple device alarm
 
 This is a simple Nodemcu project for write an alarm message into a MQTT broker, the example is built for a pool pump device.
-
-
 It have also a MQTT listener for reset the alarm status.
+
+This project has been developed with [PlatformIo framework](https://platformio.org/)
 
 
 JSON object published by the producer:
